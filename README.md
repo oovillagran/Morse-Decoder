@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Morse Decoder App</b></h1>
+  <h1><b>Morse Decoder</b></h1>
 
 </div>
 
@@ -83,7 +83,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
- 
+
  ```bash
  cd my-folder
  git clone git@github.com:oovillagran/Morse-Decoder.git
@@ -126,6 +126,12 @@ To run tests, execute the following command:
 - Twitter: [@oovillagran](https://twitter.com/oovillagran)
 - LinkedIn: [Oscar Villagran](https://www.linkedin.com/in/oovillagran/)
 
+👤 **Naan Mohammed**
+
+- GitHub: [@naanmohammed](https://github.com/naanmohammed)
+- Twitter: [@_naanahmed](https://twitter.com/_naanahmed)
+- LinkedIn: [naanahmed](https://linkedin.com/in/naanahmed)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -159,7 +165,7 @@ If you like this project feel free to make any comment, all contributions are we
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse comunity. We thank our learning, morning session and standup partners for supporting us.
+We would like to thank the Microverse community. We thank our learning, morning session and standup partners for supporting us.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
